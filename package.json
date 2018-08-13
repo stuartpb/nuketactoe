@@ -1,0 +1,26 @@
+{
+  "name": "nuketactoe",
+  "version": "0.0.0",
+  "description": "Nuclear Tic Tac Toe, a game of scoring connections in three dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartpb/nuketactoe.git"
+  },
+  "author": "Stuart P. Bentley <s@stuartpb.com> (https://stuartpb.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartpb/nuketactoe/issues"
+  },
+  "homepage": "https://github.com/stuartpb/nuketactoe#readme",
+  "devDependencies": {
+    "tape": "^4.8.0",
+    "tape-catch": "^1.0.6"
+  },
+  "dependencies": {
+    "choose": "0.0.0"
+  }
+}
